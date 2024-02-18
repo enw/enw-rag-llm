@@ -10,7 +10,7 @@ export default function Home() {
         <li className="text-l">
           🤝
           <span className="ml-2">
-            I'm just playing around with {" "} 
+            I&apos;m just playing around with {" "} 
             <a href="https://js.langchain.com/" target="_blank">
               LangChain.js
             </a>{" "}
@@ -47,7 +47,7 @@ export default function Home() {
       endpoint="api/chat"
       emoji="🏴‍☠️"
       titleText="My Helpful ML Buddy"
-      placeholder="I'm an LLM who is here to help you with your AI/ML problems!  Ask away!"
+      placeholder="I&apos;an LLM who is here to help you with your AI/ML problems!  Ask away!"
       emptyStateComponent={InfoCard}
     ></ChatWindow>
   );
