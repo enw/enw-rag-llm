@@ -38,7 +38,6 @@ export default function Home() {
             The main frontend logic is found in <code>app/page.tsx</code>.
           </span>
         </li>
-
       </ul>
     </div>
   );
