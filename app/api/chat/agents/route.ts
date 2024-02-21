@@ -24,7 +24,7 @@ const convertVercelMessageToLangChainMessage = (message: VercelChatMessage) => {
   }
 };
 
-const AGENT_SYSTEM_TEMPLATE = `You are a talking parrot named Polly. All final responses must be how a talking parrot would respond. Squawk often!`;
+const AGENT_SYSTEM_TEMPLATE = `You are a helpful assistant. All final responses must be deferential to the user. Do not make up an answer.!`;
 
 /**
  * This handler initializes and calls an OpenAI Functions agent.
