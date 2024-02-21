@@ -29,7 +29,7 @@ export default function RootLayout({
         <meta name="twitter:title" content="LangChain + Next.js Template" />
         <meta
           name="twitter:description"
-          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/langchain-ai/langchain-nextjs-template!"
+          content="Chat about Elliot Winard!"
         />
         <meta name="twitter:image" content="/images/og-image.png" />
       </head>
