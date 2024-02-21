@@ -13,7 +13,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Elliot's Chatbot Experiments</title>
+        <title>Elliot&apos;s Chatbot Experiments</title>
         <link rel="shortcut icon" href="/images/favicon.ico" />
         <meta
           name="description"
