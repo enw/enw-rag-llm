@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body {
-  color: #f8f8f8;
-  background: #131318;
+  color: #F0F4F1;
+  background: #565D56;
 }
 
 body input,
@@ -13,13 +13,16 @@ body textarea {
 }
 
 a {
-  color: #2d7bd4;
+  color: #9DA69F;
 }
 
 a:hover {
   border-bottom: 1px solid;
 }
 
+.button {
+  background-color: #9DA69F;
+}
 p {
   margin: 8px 0;
 }
