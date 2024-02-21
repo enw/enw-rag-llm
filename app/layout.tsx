@@ -13,20 +13,20 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>LangChain + Next.js Template</title>
+        <title>Elliot's Chatbot Experiments</title>
         <link rel="shortcut icon" href="/images/favicon.ico" />
         <meta
           name="description"
-          content="enw's langchain + next.js stuff"
+          content="Talk to a Chatbot all about Elliot Winard.  Ooooh!"
         />
-        <meta property="og:title" content="LangChain + Next.js Template" />
+        <meta property="og:title" content="Elliot's Chatbot Experiments" />
         <meta
           property="og:description"
-          content="Starter template showing how to use LangChain in Next.js projects. See source code and deploy your own at https://github.com/langchain-ai/langchain-nextjs-template!"
+          content="Talk to a Chatbot all about Elliot Winard.  Ooooh!"
         />
         <meta property="og:image" content="/images/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="LangChain + Next.js Template" />
+        <meta name="twitter:title" content="Elliot's Chatbot Experiments" />
         <meta
           name="twitter:description"
           content="Chat about Elliot Winard!"
