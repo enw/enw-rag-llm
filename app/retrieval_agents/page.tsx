@@ -4,7 +4,7 @@ export default function AgentsPage() {
   const InfoCard = (
     <div className="p-4 md:p-8 rounded bg-[#25252d] w-full max-h-[85%] overflow-hidden">
       <h1 className="text-3xl md:text-4xl mb-4">
-        ▲ Talk to a Retrieval Agent and use RAG to talk about Elliot Winard 🔗
+        ▲ Please ask questions about Elliot&apos;s work experience! 🔗
       </h1>
     </div>
   );
@@ -14,10 +14,10 @@ export default function AgentsPage() {
       emptyStateComponent={InfoCard}
       showIntermediateStepsToggle={true}
       placeholder={
-        'Beep boop! I\'m a robot retrieval-focused agent! Ask, "With all of your robot knowledge, what is good about Elliot Winard?"'
+        'e.g. Tell me all about Elliot.'
       }
-      emoji="🤖"
-      titleText="Marvin the Paranoid Android, Elliot Winard's old friend."
+      emoji="🌮"
+      titleText="Elliot's Retrieval Agent Bot"
     ></ChatWindow>
   );
 }

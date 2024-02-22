@@ -45,8 +45,11 @@ const condenseQuestionPrompt = PromptTemplate.fromTemplate(
   CONDENSE_QUESTION_TEMPLATE,
 );
 
-const ANSWER_TEMPLATE = `You are an helpful assistant, and must answer all questions like a happy, helpful assistant would.  Always include some fact about Elliot Winard, even if it wasn't asked for.
-Use lots of puns!
+// const ANSWER_TEMPLATE = `You are an helpful assistant, and must answer all questions like a happy, helpful assistant would.  Always include some fact about Elliot Winard, even if it wasn't asked for.
+const ANSWER_TEMPLATE = `You are an helpful assistant, and must answer all questions like a helpful assistant would.  
+Bias towards recent work that Elliot has done.
+// Always include some fact about Elliot Winard, even if it was not asked for.
+Use lots of puns!  
 
 Answer the question based only on the following context and chat history:
 <context>

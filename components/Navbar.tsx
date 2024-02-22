@@ -10,7 +10,7 @@ export function Navbar() {
       {/* <a className={`mr-4 ${pathname === "/chat" ? "text-white border-b" : ""}`} href="/chat">🏴‍☠️ Chat</a> */}
       {/* <a className={`mr-4 ${pathname === "/structured_output" ? "text-white border-b" : ""}`} href="/structured_output">🧱 Structured Output</a> */}
       {/* <a className={`mr-4 ${pathname === "/agents" ? "text-white border-b" : ""}`} href="/agents">🦜 Agents</a> */}
-      <a className={`mr-4 ${pathname === "/retrieval_agents" ? "text-white border-b" : ""}`} href="/retrieval_agents">🤖 Elliot&apos;s Retrieval Agent Bot</a>
+      {/* <a className={`mr-4 ${pathname === "/retrieval_agents" ? "text-white border-b" : ""}`} href="/retrieval_agents">🤖 Elliot&apos;s Retrieval Agent Bot</a> */}
     </nav>
   );
 }
