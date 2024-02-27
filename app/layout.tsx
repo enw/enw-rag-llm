@@ -19,14 +19,14 @@ export default function RootLayout({
           name="description"
           content="Talk to a Chatbot all about Elliot Winard.  Ooooh!"
         />
-        <meta property="og:title" content="Elliot's Chatbot Experiments" />
+        <meta property="og:title" content="A Chatbot about Elliot" />
         <meta
           property="og:description"
           content="Talk to a Chatbot all about Elliot Winard.  Ooooh!"
         />
         <meta property="og:image" content="/images/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Elliot's Chatbot Experiments" />
+        <meta name="twitter:title" content="A Chatbot about Elliot" />
         <meta
           name="twitter:description"
           content="Chat about Elliot Winard!"
