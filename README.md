@@ -1,6 +1,7 @@
 # Hello, people interested in LLM-based chat apps that can refer to your business documents.
 
-I'm an evolving app that Elliot Winard<elliot.winard@gmail.com> is building.
+I'm an evolving app that [Elliot Winard](mailto:elliot.winard@gmail.com) is building. 
+Uploaded documents are chunked and stored in a vector database.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/langchain-ai/langchain-nextjs-template)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flangchain-ai%2Flangchain-nextjs-template)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=552555575)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=552555575)
